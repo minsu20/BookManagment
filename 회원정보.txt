@@ -1,0 +1,21 @@
+----id------     -pw-   --name---   --phonenumber-- ---borrowingbooks-----
+
+latsyrc1881      2222    jeongsu     010-2222-3333    N  N  N  N  N
+
+bumkeyk          3333    key         010-3333-4444    N  N  N  N  N
+
+jeongin0098      4444    jeongin     010-4444-5555    N  N  N  N  N
+
+1n.only          7777    minseo      010-7777-8888    icecream  momo  N  N  N
+
+wendyis          9999    wendy       010-9999-0000    Biglittlelies  N  N  N  N
+
+su_00            1010    minsu       010-0000-1111    N  N  N  N  N
+
+ryan00           0000    ryan        010-1234-1234    N  N  N  N  N
+
+minzi13          0123    miziKim     010-1234-1293    N  N  N  N  N
+
+jeongah_lee      0101    jeongah     010-1111-1111    N  N  N  N  N
+
+yeiwOn           0123    yewonKim    010-1234-1234    N  N  N  N  N
